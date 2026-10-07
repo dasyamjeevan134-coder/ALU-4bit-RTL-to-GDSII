@@ -1,0 +1,10 @@
+{
+    "DESIGN_NAME": "alu_4bit",
+    "VERILOG_FILES": "dir::src/alu_4bit.v",
+    "FP_PIN_ORDER_CFG": "dir::pin_order.cfg",
+    "FP_SIZING": "relative",
+    "FP_CORE_UTIL": 40,
+    "FP_ASPECT_RATIO": 1.0,
+    "PL_TARGET_DENSITY": 0.50
+, "CLOCK_PORT": null, "RUN_CTS": false
+}

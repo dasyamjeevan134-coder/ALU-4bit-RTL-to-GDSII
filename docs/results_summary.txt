@@ -1,0 +1,36 @@
+4-BIT ALU RTL-TO-GDSII PROJECT — FINAL RESULTS
+
+Technology: Sky130
+Flow: OpenLane v1.0.2
+Design: 4-bit combinational ALU
+
+OPERATIONS
+00 = ADD
+01 = SUB
+10 = AND
+11 = OR
+
+PHYSICAL DESIGN
+Standard cells: 34
+Total cell area: 335.321600 um^2
+
+TIMING
+TNS: 0.00
+WNS: 0.00
+Worst setup slack: 4.06
+Worst hold slack: 4.00
+
+POWER
+Total power: 2.07e-05 W
+Internal power: 9.80e-06 W
+Switching power: 1.09e-05 W
+Leakage power: 2.01e-10 W
+
+SIGNOFF
+DRC violations: 0
+LVS errors: 0
+Final GDSII: Generated successfully
+
+CLOCKING
+Combinational design; no clock port.
+CTS disabled / not applicable.
